@@ -1,0 +1,130 @@
+和名,英名
+,
+全ての親, Root
+センター, center
+グルーブ, groove
+操作中心, view cnt
+腰, waist
+上半身, upper body
+上半身2, upper body2
+上半身2先, upper body2 end
+下半身, lower body
+下半身2, lower body2
+下半身2先, lower body2 end
+首, neck
+頭, head
+頭先, head end
+左目, eye_L
+右目, eye_R
+両目, eyes
+左目先, eye end_L
+右目先, eye end_R
+左肩P, shoulderP_L
+左肩, shoulder_L
+左肩C, shoulderC_L
+左腕, arm_L
+左腕捩, arm twist_L
+左腕捩1, arm twist1_L
+左腕捩2, arm twist2_L
+左腕捩3, arm twist3_L
+左ひじ, elbow_L
+左手捩, wrist twist_L
+左手捩1, wrist twist1_L
+左手捩2, wrist twist2_L
+左手捩3, wrist twist3_L
+左手首, wrist_L
+左手先, wrist end_L
+左ダミー, dummy_L
+右肩P, shoulderP_R
+右肩, shoulder_R
+右肩C, shoulderC_R
+右腕, arm_R
+右腕捩, arm twist_R
+右腕捩1, arm twist1_R
+右腕捩2, arm twist2_R
+右腕捩3, arm twist3_R
+右ひじ, elbow_R
+右手捩, wrist twist_R
+右手捩1, wrist twist1_R
+右手捩2, wrist twist2_R
+右手捩3, wrist twist3_R
+右手首, wrist_R
+右手先, wrist end_R
+右ダミー, dummy_R
+腰キャンセル左, waistCancel_L
+左足, leg_L
+左ひざ, knee_L
+左足IK親, leg IKP_L
+左足ＩＫ, leg IK_L
+左足首, ankle_L
+左つま先, toe_L
+左つま先ＩＫ, toe IK_L
+左足ＩＫ先, leg IKTarget_L
+左つま先ＩＫ先, toe IKTarget_L
+腰キャンセル右, waistCancel_R
+右足, leg_R
+右ひざ, knee_R
+右足IK親, leg IKP_R
+右足ＩＫ, leg IK_R
+右足首, ankle_R
+右つま先, toe_R
+右つま先ＩＫ, toe IK_R
+右足ＩＫ先, leg IKTarget_R
+右つま先ＩＫ先, toe IKTarget_R
+左足D, legD_L
+左ひざD, kneeD_L
+左足首D, ankleD_L
+左足先EX, toe2_L
+右足D, legD_R
+右ひざD, kneeD_R
+右足首D, ankleD_R
+右足先EX, toe2_R
+左すね, Shin_L
+左すね先, Shin end_L
+左すねＩＫ, Shin IK_L
+右すね, Shin_R
+右すね先, Shin end_R
+右すねＩＫ, Shin IK_R
+左親指０, thumb0_L
+左親指１, thumb1_L
+左親指２, thumb2_L
+左親指先, thumb end_L
+左人指１, fore1_L
+左人指２, fore2_L
+左人指３, fore3_L
+左人差指先, fore end_L
+左中指１, middle1_L
+左中指２, middle2_L
+左中指３, middle3_L
+左中指先, middle end_L
+左薬指１, third1_L
+左薬指２, third2_L
+左薬指３, third3_L
+左薬指先, third end_L
+左小指１, little1_L
+左小指２, little2_L
+左小指３, little3_L
+左小指先, little end_L
+右親指０, thumb0_R
+右親指１, thumb1_R
+右親指２, thumb2_R
+右親指先, thumb end_R
+右人指１, fore1_R
+右人指２, fore2_R
+右人指３, fore3_R
+右人差指先, fore end_R
+右中指１, middle1_R
+右中指２, middle2_R
+右中指３, middle3_R
+右中指先, middle end_R
+右薬指１, third1_R
+右薬指２, third2_R
+右薬指３, third3_R
+右薬指先, third end_R
+右小指１, little1_R
+右小指２, little2_R
+右小指３, little3_R
+右小指先, little end_R
+,
+,
+てすと,testBone
