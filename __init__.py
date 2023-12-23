@@ -11,7 +11,7 @@ bl_info = {
     "location": "Properties > bone",
     "description": "mmdtools JPname overwrite.",
     "warning": "",
-    "support": "TESTING",
+    "support": "COMMUNITY",
     "wiki_url": "",
     "tracker_url": "",
     "category": "User Interface"
